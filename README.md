@@ -3,7 +3,9 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC de Mogi Mirim "Arthur Azevedo".
 
 💻 Explorando o universo da programação com foco em C, Python, HTML, CSS e Java  
+
 🚀 Apaixonada por aprender, resolver problemas e criar soluções com código  
+
 📁 Aqui você vai encontrar meus exercícios, projetos e experimentos!
 
 ## 🌱 Atualmente estudando:
